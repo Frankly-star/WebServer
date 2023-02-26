@@ -1,0 +1,109 @@
+2023-02-26 10:26:43.723496 [info] : ========== Server init ==========
+2023-02-26 10:26:43.723506 [info] : Port:1316, OpenLinger: false
+2023-02-26 10:26:43.723606 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-02-26 10:26:43.723621 [info] : LogSys level: 1
+2023-02-26 10:26:43.723625 [info] : srcDir: /home/iceflame/webServer/resources/
+2023-02-26 10:26:43.723627 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-02-26 10:26:43.723630 [info] : ========== Server start ==========
+2023-02-26 10:26:56.352864 [info] : Client[6](192.168.96.1:35285) in, userCount:1
+2023-02-26 10:26:56.353154 [info] : Client[6] in!
+2023-02-26 10:26:56.442923 [info] : Client[7](192.168.96.1:36053) in, userCount:2
+2023-02-26 10:26:56.443133 [info] : Client[7] in!
+2023-02-26 10:26:56.444983 [info] : Client[8](192.168.96.1:36309) in, userCount:3
+2023-02-26 10:26:56.445177 [info] : Client[8] in!
+2023-02-26 10:26:56.445266 [info] : Client[9](192.168.96.1:36565) in, userCount:4
+2023-02-26 10:26:56.445493 [info] : Client[9] in!
+2023-02-26 10:26:56.458670 [info] : Client[10](192.168.96.1:36821) in, userCount:5
+2023-02-26 10:26:56.459010 [info] : Client[10] in!
+2023-02-26 10:26:56.459454 [info] : Client[11](192.168.96.1:37077) in, userCount:6
+2023-02-26 10:26:56.459640 [info] : Client[11] in!
+2023-02-26 10:27:02.096248 [info] : Client[11] quit!
+2023-02-26 10:27:02.096515 [info] : Client[11](192.168.96.1:37077) quit, UserCount:5
+2023-02-26 10:31:35.601011 [info] : ========== Server init ==========
+2023-02-26 10:31:35.601021 [info] : Port:1316, OpenLinger: false
+2023-02-26 10:31:35.601101 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-02-26 10:31:35.601108 [info] : LogSys level: 1
+2023-02-26 10:31:35.601110 [info] : srcDir: /home/iceflame/webServer/resources/
+2023-02-26 10:31:35.601112 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-02-26 10:31:35.601117 [info] : ========== Server start ==========
+2023-02-26 10:31:45.279363 [info] : Client[6](192.168.96.1:12246) in, userCount:1
+2023-02-26 10:31:45.279536 [info] : Client[6] in!
+2023-02-26 10:31:45.360161 [info] : Client[7](192.168.96.1:12502) in, userCount:2
+2023-02-26 10:31:45.360537 [info] : Client[7] in!
+2023-02-26 10:31:45.360652 [info] : Client[8](192.168.96.1:12758) in, userCount:3
+2023-02-26 10:31:45.360819 [info] : Client[8] in!
+2023-02-26 10:31:45.361520 [info] : Client[9](192.168.96.1:13014) in, userCount:4
+2023-02-26 10:31:45.361660 [info] : Client[9] in!
+2023-02-26 10:31:45.365898 [info] : Client[10](192.168.96.1:13270) in, userCount:5
+2023-02-26 10:31:45.366098 [info] : Client[10] in!
+2023-02-26 10:31:45.436777 [info] : Client[6] quit!
+2023-02-26 10:31:45.436964 [info] : Client[6](192.168.96.1:12246) quit, UserCount:4
+2023-02-26 10:51:01.687318 [info] : ========== Server init ==========
+2023-02-26 10:51:01.687372 [info] : Port:1316, OpenLinger: false
+2023-02-26 10:51:01.687378 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-02-26 10:51:01.687380 [info] : LogSys level: 1
+2023-02-26 10:51:01.687402 [info] : srcDir: /home/iceflame/webServer/resources/
+2023-02-26 10:51:01.687404 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-02-26 10:51:01.687407 [info] : ========== Server start ==========
+2023-02-26 10:51:05.853225 [info] : Client[6](192.168.96.1:47835) in, userCount:1
+2023-02-26 10:51:05.853612 [info] : Client[6] in!
+2023-02-26 10:51:05.891598 [info] : Client[7](192.168.96.1:48091) in, userCount:2
+2023-02-26 10:51:05.891799 [info] : Client[7] in!
+2023-02-26 10:51:05.899764 [info] : Client[8](192.168.96.1:48347) in, userCount:3
+2023-02-26 10:51:05.899962 [info] : Client[8] in!
+2023-02-26 10:51:05.914601 [info] : Client[9](192.168.96.1:48603) in, userCount:4
+2023-02-26 10:51:05.914785 [info] : Client[9] in!
+2023-02-26 10:51:05.944624 [info] : Client[6] quit!
+2023-02-26 10:51:05.944956 [info] : Client[6](192.168.96.1:47835) quit, UserCount:3
+2023-02-26 10:51:34.901988 [info] : ========== Server init ==========
+2023-02-26 10:51:34.902022 [info] : Port:1316, OpenLinger: false
+2023-02-26 10:51:34.902029 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-02-26 10:51:34.902113 [info] : LogSys level: 1
+2023-02-26 10:51:34.902119 [info] : srcDir: /home/iceflame/webServer/resources/
+2023-02-26 10:51:34.902289 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-02-26 10:51:34.902327 [info] : ========== Server start ==========
+2023-02-26 10:51:36.915149 [info] : Client[6](192.168.96.1:51675) in, userCount:1
+2023-02-26 10:51:36.915519 [info] : Client[6] in!
+2023-02-26 10:51:36.961711 [info] : Client[7](192.168.96.1:51931) in, userCount:2
+2023-02-26 10:51:36.961876 [info] : Client[7] in!
+2023-02-26 10:51:36.963069 [info] : Client[8](192.168.96.1:52187) in, userCount:3
+2023-02-26 10:51:36.963219 [info] : Client[8] in!
+2023-02-26 10:51:37.015928 [info] : Client[6] quit!
+2023-02-26 10:51:37.016202 [info] : Client[6](192.168.96.1:51675) quit, UserCount:2
+2023-02-26 10:51:39.050698 [info] : Client[6](192.168.96.1:52443) in, userCount:3
+2023-02-26 10:51:39.050867 [info] : Client[6] in!
+2023-02-26 10:51:39.053499 [info] : Client[9](192.168.96.1:52699) in, userCount:4
+2023-02-26 10:51:39.053720 [info] : Client[9] in!
+2023-02-26 10:51:39.056398 [info] : Client[10](192.168.96.1:53211) in, userCount:5
+2023-02-26 10:51:39.056662 [info] : Client[10] in!
+2023-02-26 10:51:39.056778 [info] : Client[11](192.168.96.1:52955) in, userCount:6
+2023-02-26 10:51:39.056888 [info] : Client[11] in!
+2023-02-26 10:51:39.121895 [info] : Client[7] quit!
+2023-02-26 10:51:39.122122 [info] : Client[7](192.168.96.1:51931) quit, UserCount:5
+2023-02-26 10:51:49.478823 [info] : Client[9] quit!
+2023-02-26 10:51:49.479714 [info] : Client[9](192.168.96.1:52699) quit, UserCount:4
+2023-02-26 10:51:49.694779 [info] : Client[10] quit!
+2023-02-26 10:51:49.695022 [info] : Client[10](192.168.96.1:53211) quit, UserCount:3
+2023-02-26 10:51:52.342422 [info] : Client[8] quit!
+2023-02-26 10:51:52.342864 [info] : Client[8](192.168.96.1:52187) quit, UserCount:2
+2023-02-26 12:22:33.925532 [info] : ========== Server init ==========
+2023-02-26 12:22:33.925562 [info] : Port:1316, OpenLinger: false
+2023-02-26 12:22:33.925567 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-02-26 12:22:33.925569 [info] : LogSys level: 1
+2023-02-26 12:22:33.925645 [info] : srcDir: /home/iceflame/webServer/resources/
+2023-02-26 12:22:33.925650 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-02-26 12:22:33.925685 [info] : ========== Server start ==========
+2023-02-26 12:22:38.899016 [info] : Client[6](192.168.96.1:49375) in, userCount:1
+2023-02-26 12:22:38.899262 [info] : Client[6] in!
+2023-02-26 12:22:38.947999 [info] : Client[7](192.168.96.1:49631) in, userCount:2
+2023-02-26 12:22:38.948166 [info] : Client[7] in!
+2023-02-26 12:22:38.952834 [info] : Client[8](192.168.96.1:49887) in, userCount:3
+2023-02-26 12:22:38.953014 [info] : Client[8] in!
+2023-02-26 12:22:38.962868 [info] : Client[10](192.168.96.1:50143) in, userCount:4
+2023-02-26 12:22:38.963062 [info] : Client[10] in!
+2023-02-26 12:22:38.966467 [info] : Client[11](192.168.96.1:50399) in, userCount:5
+2023-02-26 12:22:38.966642 [info] : Client[11] in!
+2023-02-26 12:22:39.010182 [info] : Client[6] quit!
+2023-02-26 12:22:39.010334 [info] : Client[6](192.168.96.1:49375) quit, UserCount:4
+2023-02-26 12:22:43.968836 [info] : Client[11] quit!
+2023-02-26 12:22:43.969120 [info] : Client[11](192.168.96.1:50399) quit, UserCount:3
